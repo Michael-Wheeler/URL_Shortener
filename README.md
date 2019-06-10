@@ -1,6 +1,6 @@
-# A sudo code implementation of a URL Shortening API.
+# A pseudocode implementation of a URL Shortening API.
 
-Due to time constraints and my lack of PHP knowledge (syntax, tools, conventions) the task has been completed in sudo code so as to focus on the project structure and the logic of the service. Creation of view classes has also been left out as it was not necessary for the solution. Below is a basic overview of the repository.
+Due to time constraints and my lack of PHP knowledge (syntax, tools, conventions) the task has been completed in pseudocode so as to focus on the project structure and the logic of the service. Creation of view classes has also been left out as it was not necessary for the solution. Below is a basic overview of the repository.
 
 Tests:
 Unfortunately there was not time to add tests, although if I had been more familiar with the tools I would have used a TDD approach.
